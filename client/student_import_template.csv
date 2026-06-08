@@ -1,0 +1,5 @@
+student_id,first_name,middle_name,last_name,gender,dob,phone,email,address,department,program,year,section,enrollment_date
+CS2026001,Habtamu,,Amare,male,2000-05-15,+251900000000,habtamu@example.com,Addis Ababa,Computer Science,BSc Computer Science,4th Year,A,2022-09-01
+CS2026002,Sarah,Jane,Miller,female,2001-08-22,+1234567890,sarah@example.com,New York,Computer Science,BSc Computer Science,3rd Year,B,2023-09-01
+CS2026003,James,,Wilson,male,2002-11-10,+1987654321,james@example.com,London,Software Engineering,BSc Software Engineering,2nd Year,A,2024-09-01
+CS2026004,Elena,Maria,Rodriguez,female,2003-02-14,+1555666777,elena@example.com,Madrid,Information Systems,BSc Information Systems,1st Year,C,2025-09-01
