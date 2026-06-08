@@ -1,0 +1,6 @@
+first_name,middle_name,last_name,gender,dob,email,phone,address,employee_id,department,role,degree,specialization,experience_years,employment_type,join_date
+John,,Smith,male,1985-03-15,john.smith@example.com,+251900000001,Addis Ababa,T001,Computer Science,Lecturer,MSc,Software Engineering,5,full-time,2020-09-01
+Sarah,Jane,Johnson,female,1980-07-22,sarah.johnson@example.com,+251900000002,New York,T002,Computer Science,Professor,PhD,Artificial Intelligence,12,full-time,2012-08-15
+Michael,,Williams,male,1988-11-10,michael.williams@example.com,+251900000003,London,T003,Software Engineering,Lecturer,MSc,Web Development,4,full-time,2021-01-10
+Elena,Maria,Garcia,female,1990-02-14,elena.garcia@example.com,+251900000004,Madrid,T004,Information Systems,Assistant Professor,MSc,Database Systems,3,full-time,2022-02-01
+David,,Brown,male,1978-05-30,david.brown@example.com,+251900000005,Berlin,T005,Computer Science,Professor,PhD,Machine Learning,15,full-time,2010-09-01
