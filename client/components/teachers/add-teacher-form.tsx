@@ -250,7 +250,7 @@ export function AddTeacherForm() {
                           render={({ field }) => (
                             <FormItem>
                               <FormLabel>Gender <span className="text-destructive">*</span></FormLabel>
-                              <Select onValueChange={field.onChange} defaultValue={field.value}>
+                              <Select onValueChange={field.onChange} value={field.value}>
                                 <FormControl>
                                   <SelectTrigger>
                                     <SelectValue placeholder="Select gender" />
@@ -363,7 +363,7 @@ export function AddTeacherForm() {
                           render={({ field }) => (
                             <FormItem>
                               <FormLabel>Highest Degree <span className="text-destructive">*</span></FormLabel>
-                              <Select onValueChange={field.onChange} defaultValue={field.value}>
+                              <Select onValueChange={field.onChange} value={field.value}>
                                 <FormControl>
                                   <SelectTrigger>
                                     <SelectValue placeholder="Select degree" />
@@ -438,7 +438,7 @@ export function AddTeacherForm() {
                           render={({ field }) => (
                             <FormItem>
                               <FormLabel>Department <span className="text-destructive">*</span></FormLabel>
-                              <Select onValueChange={field.onChange} defaultValue={field.value}>
+                              <Select onValueChange={field.onChange} value={field.value}>
                                 <FormControl>
                                   <SelectTrigger>
                                     <SelectValue placeholder="Select department" />
@@ -465,7 +465,7 @@ export function AddTeacherForm() {
                           render={({ field }) => (
                             <FormItem>
                               <FormLabel>Academic Rank / Role <span className="text-destructive">*</span></FormLabel>
-                              <Select onValueChange={field.onChange} defaultValue={field.value}>
+                              <Select onValueChange={field.onChange} value={field.value}>
                                 <FormControl>
                                   <SelectTrigger>
                                     <SelectValue placeholder="Select rank" />
@@ -490,7 +490,7 @@ export function AddTeacherForm() {
                           render={({ field }) => (
                             <FormItem>
                               <FormLabel>Employment Type <span className="text-destructive">*</span></FormLabel>
-                              <Select onValueChange={field.onChange} defaultValue={field.value}>
+                              <Select onValueChange={field.onChange} value={field.value}>
                                 <FormControl>
                                   <SelectTrigger>
                                     <SelectValue placeholder="Select type" />

@@ -1,0 +1,6 @@
+course_name,course_code,course_title,department,semester,credit_hours,ects,course_type,prerequisites,description,learning_outcomes
+Introduction to Programming,CS101,Introduction to Programming,Computer Science,1st,3,6,core,,Learn fundamental programming concepts and problem-solving techniques,Understand basic programming constructs and algorithms
+Data Structures,CS102,Data Structures and Algorithms,Computer Science,2nd,4,8,core,CS101,Study data organization and algorithm analysis,Design and implement efficient data structures
+Algorithms,CS201,Design and Analysis of Algorithms,Computer Science,3rd,3,6,core,CS102,Learn algorithm design and complexity analysis,Analyze and optimize algorithm performance
+Database Systems,CS202,Database Management Systems,Computer Science,4th,3,6,core,CS102,Understand database design and SQL programming,Design normalized databases and write complex queries
+Machine Learning,CS401,Introduction to Machine Learning,Computer Science,7th,3,6,elective,CS201,Study ML algorithms and applications,Implement machine learning models for real-world problems
